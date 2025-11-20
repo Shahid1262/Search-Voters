@@ -1,4 +1,9 @@
-Flask==2.2.5
-Whoosh==2.7.4
-gunicorn==20.1.0
-requests==2.31.0
+fastapi
+uvicorn
+gunicorn
+PyPDF2
+python-docx
+python-dotenv
+pytesseract
+pdf2image
+Pillow
